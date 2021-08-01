@@ -9,4 +9,11 @@
     <color name="white">#FFFFFFFF</color>
     <color name="item_color_active">#4776E6</color>
     <color name="item_color_inactive">#A4A1A1</color>
+    <color name="red">#FF0000</color>
+    <color name="leafGreen">#3A5F0B</color>
+    <color name="yellow">#F6BE00</color>
+    <color name="lightGray">#F9F9F9</color>
+    <color name="mediumGray">#D1D1D1</color>
+    <color name="lightMediumGray">#80D1D1D1</color>
+    <color name="darkGray">#4B4B4B</color>
 </resources>
